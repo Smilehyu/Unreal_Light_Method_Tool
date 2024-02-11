@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LightingMethodTool",
+	"Description": "This is a quick adjustment tool made to make it easier to observe the use of different lighting methods in UnrealEngine, such as quickly switching between Lumen and SSGI.",
+	"Category": "Flapex Studio",
+	"CreatedBy": "Hu Huaiyu",
+	"CreatedByURL": "",
+	"DocsURL": "https://ciu5z3k2i2u.feishu.cn/wiki/Ua6owhHHJiDmoDkz5cbcXmlYnff",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
